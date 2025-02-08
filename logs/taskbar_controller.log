@@ -1,0 +1,11 @@
+2025-02-08 21:54:38,432 - TaskbarController - INFO - Current taskbar state checked: autohide=False
+2025-02-08 21:54:38,455 - TaskbarController - INFO - Created new custom icon at c:\projects-root\taskbar-control\assets\icon.png
+2025-02-08 21:54:38,461 - TaskbarController - INFO - Tray icon setup completed
+2025-02-08 21:54:38,462 - TaskbarController - INFO - Hotkey ctrl+alt+t registered in separate thread
+2025-02-08 21:54:38,462 - TaskbarController - INFO - TaskbarController initialized with hotkey: ctrl+alt+t, current autohide state: False
+2025-02-08 21:54:38,463 - TaskbarController - WARNING - Application running without admin rights, some features might be limited
+2025-02-08 21:54:38,473 - TaskbarController - INFO - Starting application
+2025-02-08 21:54:38,577 - TaskbarController - INFO - Hotkeys re-registered successfully
+2025-02-08 21:54:43,592 - TaskbarController - INFO - Hotkeys re-registered successfully
+2025-02-08 21:54:47,315 - TaskbarController - INFO - Application shutdown initiated
+2025-02-08 21:54:48,325 - TaskbarController - INFO - Cleanup completed successfully
